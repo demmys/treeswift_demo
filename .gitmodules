@@ -1,0 +1,3 @@
+[submodule "treeswift_compiler"]
+	path = treeswift_compiler
+	url = git@github.com:demmys/treeswift.git

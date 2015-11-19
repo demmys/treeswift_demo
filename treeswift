@@ -1,0 +1,3 @@
+#!/bin/sh
+
+PATH=./treeswift_compiler/bin:$PATH treeswift -I treeswift_compiler/lib/TreeSwiftCore/include $@
